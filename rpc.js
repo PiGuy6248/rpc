@@ -9,3 +9,4 @@ discord.updatePresence({
         largeImageText: "TEXT HERE",
         smallImageText: "TEXT HERE",
         instance: true
+})
